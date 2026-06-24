@@ -1,0 +1,16 @@
+{
+  "general": {
+    "output_mode": "same_dir",
+    "suffix": "_converted",
+    "custom_dir": ""
+  },
+  "ffmpeg": {
+    "custom_ffmpeg_path": "",
+    "custom_ffprobe_path": "",
+    "enable_hardware": true
+  },
+  "interface": {
+    "maximize_on_start": false,
+    "max_workers": 2
+  }
+}
